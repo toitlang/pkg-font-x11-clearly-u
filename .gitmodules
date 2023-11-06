@@ -1,6 +1,6 @@
-[submodule "xorg-mutt-misc"]
-	path = xorg-mutt-misc
-	url = https://github.com/freedesktop/xorg-mutt-misc.git
 [submodule "third_party/toit-font-tools"]
 	path = third_party/toit-font-tools
 	url = https://github.com/toitlang/toit-font-tools.git
+[submodule "xorg-mutt-misc"]
+	path = xorg-mutt-misc
+	url = https://gitlab.freedesktop.org/xorg/font/mutt-misc.git
